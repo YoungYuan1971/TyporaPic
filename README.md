@@ -1,3 +1,3 @@
 # TyporaPic
 
-The Picture-bed for Typora
+The Picture for Typora
